@@ -54,7 +54,7 @@ Copilot に与えるコンテキストとツールが、その作業を左右し
 
 ツールを使いこなす最良の方法は、使い続けることです。実稼働コード、趣味のコード、長年構想していながら構築できていなかった小さなアプリなどに活用してください。学んだことをチームと共有し、チームからも学びましょう。そして、引き続きドキュメントを確認してください。
 
-GitHub Copilot エコシステムをさらに学ぶには、[VS Code ハーネス][vscode-harness]、[Copilot CLI ハーネス][cli-harness]、[Cloud agent ハーネス][cloud-harness]を確認してください。
+GitHub Copilot エコシステムをさらに学ぶには、[VS Code ワークショップ][vscode-harness]、[Copilot CLI ワークショップ][cli-harness]、[Cloud agent ワークショップ][cloud-harness]を確認してください。
 
 ## リソース
 

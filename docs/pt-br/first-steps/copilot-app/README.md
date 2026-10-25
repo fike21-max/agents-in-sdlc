@@ -18,7 +18,7 @@ O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arqu
 
 | Lição | Tópico | O que você fará |
 | ------ | ----- | ---------------- |
-| [0. Pré-requisitos e configuração][lesson-0] | Configuração | Verificar os pré-requisitos, instalar o aplicativo, escolher um modelo e explorar o espaço de trabalho |
+| [0. Pré-requisitos e configuração][lesson-0] | Configuração | Verificar os pré-requisitos, instalar o aplicativo, escolher um modelo de IA e explorar o espaço de trabalho |
 | [1. Criar o espaço de trabalho][lesson-1] | Criação | Iniciar uma sessão Interactive em uma pasta local vazia |
 | [2. Criar e aprimorar][lesson-2] | Criação | Criar o quiz e aprimorá-lo no navegador integrado |
 | [3. Inspecionar e testar][lesson-3] | Contexto e teste | Revisar os detalhes do projeto e do uso e executar um teste básico de funcionamento no navegador |

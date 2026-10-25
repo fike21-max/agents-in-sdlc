@@ -18,7 +18,7 @@ O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arqu
 
 | Lição | Tópico | O que você fará |
 | ------ | ----- | ---------------- |
-| [0. Pré-requisitos e configuração][lesson-0] | Configuração | Verificar os pré-requisitos, adicionar a extensão do GitHub, abrir uma pasta e escolher um modelo |
+| [0. Pré-requisitos e configuração][lesson-0] | Configuração | Verificar os pré-requisitos, adicionar a extensão do GitHub, abrir uma pasta e escolher um modelo de IA |
 | [1. Criar no espaço de trabalho][lesson-1] | Criação | Criar o quiz, visualizá-lo no navegador integrado e aprimorar um elemento selecionado |
 | [2. Registrar instruções do projeto][lesson-2] | Instruções | Gerar e adaptar `.github/copilot-instructions.md` com `/init` |
 | [3. Inspecionar o contexto e testar][lesson-3] | Teste | Inspecionar o contexto da conversa e executar um teste básico de funcionamento antes de qualquer gravação no Git |

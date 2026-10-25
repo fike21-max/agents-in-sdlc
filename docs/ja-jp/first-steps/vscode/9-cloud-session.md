@@ -1,16 +1,16 @@
 ---
 title: "レッスン 9 - 次のアイデアをクラウドセッションに任せる"
-description: "Copilot Chat のハーネスを Local から Cloud に切り替え、単独で完結する機能の作成を委任して、プルリクエストとして受け取ります。"
+description: "Copilot Chat の実行環境を Local から Cloud に切り替え、単独で完結する機能の作成を委任して、プルリクエストとして受け取ります。"
 authors:
   - jamesmontemagno
 lastUpdated: 2026-10-05
 ---
 
-ローカルで開発の流れをひととおり体験したので、望ましい成果物がどのようなものかを把握できました。今が、作業を任せて自分が付き添わずに進めてもらうよいタイミングです。Copilot Chat は、実行するハーネスを自分のコンピューターから GitHub に切り替えられます。
+ローカルで開発の流れをひととおり体験したので、望ましい成果物がどのようなものかを把握できました。今が、作業を任せて自分が付き添わずに進めてもらうよいタイミングです。Copilot Chat は、実行環境を自分のコンピューターから GitHub に切り替えられます。
 
 このレッスンでは、次の内容を学習します。
 
-- Copilot Chat のハーネスを **Local** から **Cloud** に切り替える。
+- Copilot Chat の実行環境を **Local** から **Cloud** に切り替える。
 - 明確な受け入れ条件を持つ、単独で完結する機能の作成を委任する。
 - 作成されたプルリクエストをレビューする。
 
@@ -19,9 +19,9 @@ lastUpdated: 2026-10-05
 
 ## クラウドに委任する
 
-![VS Code の Copilot Chat で Harness ピッカーを開いた図。Copilot の下で Local ではなく Cloud が選択され、Claude や Codex などのほかのハーネスも並んでいます。上部には、3 つの新しいカラーテーマを追加するリクエストと Working in the cloud が表示され、GitHub でセッションの進行を確認するリンクがあります。](../../../_images/first-steps-vscode-cloud-harness.svg)
+![VS Code の Copilot Chat で Harness ピッカーを開いた図。Copilot の下で Local ではなく Cloud が選択され、Claude や Codex などのほかのコーディングエージェントも表示されています。上部には 3 つの新しいカラーテーマを追加するリクエストと Working in the cloud が表示され、GitHub でセッションの進行を確認するリンクがあります。](../../../_images/first-steps-vscode-cloud-harness.svg)
 
-**Harness** ピッカーには、ほかのハーネスとともに、Copilot を **Local** または **Cloud** で実行する選択肢が表示されます。**Cloud** に切り替えると、次のリクエストは自分のコンピューターではなく GitHub で実行されます。
+**Harness** ピッカーには、Copilot の **Local** または **Cloud** の実行環境と、ほかのコーディングエージェントが表示されます。**Cloud** に切り替えると、次のリクエストは自分のコンピューターではなく GitHub で実行されます。
 
 1. Copilot Chat で **Harness** ピッカーを開き、Copilot を **Local** から **Cloud** に切り替えます。
 2. 新しいセッションを開始し、明確な受け入れ条件を持つ、単独で完結する機能を依頼します。

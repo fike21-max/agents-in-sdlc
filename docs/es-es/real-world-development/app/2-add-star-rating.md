@@ -3,7 +3,7 @@ title: "Lección 2 - Añadir valoraciones por estrellas: una mejora rápida"
 description: "Inicia tu primera sesión de agente en la aplicación GitHub Copilot, realiza un pequeño cambio en las tarjetas de los juegos y combínalo como tu primera solicitud de incorporación de cambios."
 authors:
   - geektrainer
-lastUpdated: 2026-07-09
+lastUpdated: 2026-10-22
 ---
 
 En la lección anterior recorriste el espacio de trabajo y utilizaste un chat rápido. Ahora es el momento de iniciar una **sesión de agente** y realizar el primer cambio en el proyecto. Será un cambio pequeño: los juegos ya tienen una valoración por estrellas en sus datos, pero las tarjetas de la página de inicio todavía no la muestran. Pedirás al agente que la muestre, revisarás el cambio y lo combinarás como tu primera solicitud de incorporación de cambios.
@@ -95,10 +95,11 @@ Por supuesto, no basta con leer el código y dar por hecho que funciona. Vamos a
 
 1. Selecciona **Create PR** en la esquina superior derecha.
 2. Si se solicita, selecciona **Sign in with your browser** y sigue las indicaciones para autenticarte.
-3. Copilot comenzará a crear la PR.
-4. Selecciona la burbuja **PR** situada justo encima del chat para abrir la solicitud en el panel de revisión. Puedes revisarla aquí según sea necesario.
-5. Cuando esté lista, selecciona **Ready to merge**.
-6. Selecciona **Merge pull request** en el nuevo cuadro de diálogo para combinar la solicitud.
+3. Si Copilot explica que la política del repositorio requiere una incidencia relacionada antes de crear la PR, confirma que debe seguir ese proceso.
+4. Copilot empezará a crear la PR.
+5. Selecciona la burbuja **PR** situada justo encima del chat para abrirla en el panel de revisión y revisarla.
+6. Cuando esté lista, selecciona **Ready to merge**.
+7. Selecciona **Merge pull request** en el nuevo cuadro de diálogo para combinar la solicitud.
 
 ## Resumen y pasos siguientes
 

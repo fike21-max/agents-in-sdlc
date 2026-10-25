@@ -31,7 +31,7 @@ VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/c
 - [ ] GitHub Codespaces へのアクセス
 
 > [!TIP]
-> 有料プランをお持ちでない場合、認証済みの学生は [GitHub Education][callout-student-plan-education] を通じて GitHub Copilot を無料で利用できます。**Copilot Student** プランには、このワークショップで使うエージェント、MCP、コードレビュー、Copilot CLI の機能が含まれるため、どのコースも完了できます。
+> 有料プランをお持ちでない場合、認証済みの学生は [GitHub Education][callout-student-plan-education] を通じて GitHub Copilot を無料で利用できます。**Copilot Student** プランには、このワークショップで使うエージェント、MCP、コードレビュー、Copilot CLI の機能が含まれるため、すべての演習を完了できます。
 
 [callout-student-plan-education]: https://github.com/education/students
 ## 始める
